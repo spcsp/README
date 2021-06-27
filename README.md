@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## StrokesPlus.net ClearScript Plugins
 
-You can use the [editor on GitHub](https://github.com/spcsp/README/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[StrokesPlus.net](https://www.strokesplus.net/) is an amazing piece of software that can automate most parts of windows. Included with the support for gestures and hotkeys, is ClearScript. Many useful functions are provided, as well as the core of .NET
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With some tinkering, we have leveraged [npmjs](https://npmjs.org) and the `npm` package manager to create a plugin ecosystem. The program also offers support for C# plugins, which is fantastic (official plugin soon?) 
 
-### Markdown
+### Plugins
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a list of the plugins currently available on npm
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spcsp/README/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [osd-toast](https://github.com/spcsp/osd-toast)
+- [explore-settings-json](https://github.com/spcsp/explore-settings-json)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Start an issue in a repo and lets chat.
