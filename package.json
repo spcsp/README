@@ -1,0 +1,20 @@
+{
+  "name": "@spcsp/website",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "version": "0.1.0",
+  "keywords": [
+    "StrokesPlus.net",
+    "plugin",
+    "scripts"
+  ],
+  "author": {
+    "name": "Kevin Hill",
+    "email": "kevinkhill@gmail.com",
+    "website": "https://kevinhill.codes"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
