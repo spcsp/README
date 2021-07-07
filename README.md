@@ -1,6 +1,4 @@
-# StrokesPlus.net - ClearScript Plugins
-
-[StrokesPlus.net](https://www.strokesplus.net/) is an amazing piece of software that can automate//query/interacte with most parts of windows and applications. Included with the support for gestures, hotkeys, macros, floaters, is the a JS engine, [ClearScript](https://github.com/Microsoft/ClearScript). StrokesPlus uses ClearScript to embed a JS engine in the app, and provide a whole host of custom functionality, as well as access to a large portion of the .NET core libraries. (Things like _System.IO_ for example)
+[StrokesPlus.net](https://www.strokesplus.net/) is an amazing piece of software that can automate//query/interacte with most parts of windows and applications. Included with the support for gestures, hotkeys, macros, floaters, is the the javascript engine, [ClearScript](https://github.com/Microsoft/ClearScript). StrokesPlus uses ClearScript to embed the V8 JS engine in the app, and provide a whole host of custom functionality, as well as access to a large portion of the .NET core libraries. (Things like _System.IO_ for example)
 
 With some tinkering, we have leveraged [npmjs](https://npmjs.org) and the `npm` package manager to create a plugin ecosystem. They will be downloaded via npm, and installed locally. Part of the loading the plugin will be to load the plugins from disk, and make them avaiable to the scripting engine.
 
